@@ -1,0 +1,37 @@
+{
+  "name": "vue3-table-resizable",
+  "version": "1.0.1",
+  "description": "A Vue 3 directive to resize table columns",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "vue": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denisoed/vue3-table-resizable.git"
+  },
+  "keywords": [
+    "Vue",
+    "Vue.js",
+    "Vue 3",
+    "Vue directive",
+    "table",
+    "resizable",
+    "resize",
+    "resize table",
+    "resize table columns",
+    "resize table column"
+  ],
+  "author": "denisoed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denisoed/vue3-table-resizable/issues"
+  },
+  "homepage": "https://github.com/denisoed/vue3-table-resizable#readme",
+  "devDependencies": {
+    "@babel/core": "^7.13.8"
+  }
+}
